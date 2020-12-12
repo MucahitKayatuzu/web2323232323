@@ -1,0 +1,169 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #808080;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  margin-top: 80px;
+  font-weight: normal;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+  font-weight: 900;
+}
+
+a {
+  text-decoration: none;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.feridun {
+  line-height: 2;
+  color: #66BFBF;
+}
+
+.programmer {
+  font-size: 1.5rem;
+  font-weight: border-left:;
+  color: #66BFBF;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.kiss {
+  margin: auto;
+  width: 30%;
+  margin-bottom: 80px;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+  background-color: #dbf6e9;
+}
+
+.middle-container {}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  line-height: 2;
+  background-color: #66BFBF;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+.top-cloud {
+  top: 50px;
+  right: 300px;
+  position: absolute;
+}
+
+.bottom-cloud {
+  top: 400px;
+  left: 250px;
+  position: absolute;
+}
+
+.muco {
+  transform: rotate(180deg);
+  width: 23%;
+}
+
+.html5-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.css3-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.my-skill {
+  position: relative;
+  top: 45px;
+}
+
+.skill-row {
+  line-height: 2;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.button {
+  margin: 50px 0 50px 0;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  border-radius: 16px;
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 20px;
+  background-color: #66BFBF;
+  -webkit-box-shadow: 0 0 0 0 #000000;
+  -moz-box-shadow: 0 0 0 0 #000000;
+  box-shadow: 0 0 0 0 #000000;
+  text-shadow: 0 0 2px #EAF6F6;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.contact-me {
+  margin: 40px auto 60px;
+  line-height: 40px;
+}
+
+.lorem-ipmus {
+  margin: auto;
+  width: 33%;
+  line-height: 2;
+}
+
+.ccc {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
